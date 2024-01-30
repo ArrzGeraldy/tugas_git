@@ -5,3 +5,4 @@ rangkuman git
 -git commit: menyimpan riwayat perubahan
 -git push: menyimpan file yang sudah di commit ke repo cloud
 -git log: melihat semua riwayat commit di repo 
+-git branch: untuk melihat branch apa saja di repo
