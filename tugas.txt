@@ -2,3 +2,4 @@ rangkuman git
 
 -git init: inisiasi git
 -git add: menambahkan file atau menyimpan perubahan ke repo
+-git commit: menyimpan riwayat perubahan
