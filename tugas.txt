@@ -7,3 +7,4 @@ rangkuman git
 -git log: melihat semua riwayat commit di repo 
 -git branch: untuk melihat branch apa saja di repo
 -git checkout: mengganti branch
+-git merge: menggabungkan 2 branch
